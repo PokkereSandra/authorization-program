@@ -8,5 +8,6 @@ Data validation and remember user functionality.
 ### To run program enter commands below:
 - clone project from github
 - composer install
-- dump db-tables.sql file
+- connect to db with username: root and no password
+- run db-tables.sql file to get users and remember tokens tables
 - php -S localhost:8000
